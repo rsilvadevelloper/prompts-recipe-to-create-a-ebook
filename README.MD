@@ -78,9 +78,9 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     <a href="https://github.com/felipeAguiarCode">
     GitHub</a>&nbsp;|&nbsp;
     <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
+Ronald da Silva -exe">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
+    <a href="https://www.instagram.com/rsilva.rn/">
     Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
