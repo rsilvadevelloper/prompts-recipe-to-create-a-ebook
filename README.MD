@@ -73,7 +73,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       width=80 
       src="https://avatars.githubusercontent.com/u/37452836?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspRonald da Silva<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/felipeAguiarCode">
     GitHub</a>&nbsp;|&nbsp;
