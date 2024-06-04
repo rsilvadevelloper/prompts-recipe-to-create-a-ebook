@@ -78,7 +78,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     <a href="https://github.com/r-silva-developer-full-stackCode">
     GitHub</a>&nbsp;|&nbsp;
     <a href="www.linkedin.com/in/
-Ronald da Silva -exe">LinkedIn</a>
+r-silva-developer-full-stack-exe">LinkedIn</a>
 &nbsp;|&nbsp;
     <a href="https://www.instagram.com/rsilva.rn/">
     Instagram</a>
