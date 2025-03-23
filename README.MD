@@ -66,13 +66,6 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 ## 👨‍💻 Expert
 
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
     <p>&nbsp&nbsp&nbspRonald da Silva<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/rsilvadevelloper?tab=repositories">
