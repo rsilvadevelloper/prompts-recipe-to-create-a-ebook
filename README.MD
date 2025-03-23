@@ -66,19 +66,5 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 ## 👨‍💻 Expert
 
-    <p>&nbsp&nbsp&nbspRonald da Silva<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/rsilvadevelloper?tab=repositories">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="https://www.linkedin.com/in/r-silva-developer-full-stack/">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/rsilva.rn/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
-
----
 
 ⌨️ com [Ronald da Silva](https://github.com/rsilvadevelloper)
